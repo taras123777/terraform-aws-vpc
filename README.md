@@ -4,7 +4,7 @@
 ```
 
 module "vpc" {
-    source = ""
+    source = "taras123777/vpc/aws"
 }
 
 ```
